@@ -6,6 +6,10 @@ Do you have a question, feature request, or bug report for Name Sans? Awesome! P
 
 *Note: Name Sans is ***not*** an open-source font. If you would like to try demo fonts or purchase a license for desktop & web usage, please go to https://www.futurefonts.xyz/arrowtype/name-sans.*
 
+## Current Status
+
+Name Sans is currently released in version `0.2`, with Weights 1–700 and Optical Sizes 12–96.
+
 ![title card](images/name_sans_v02__01b-cover-may_2020.png)
 
 ![description](images/name_sans_v02__02-future-thinking.png)
