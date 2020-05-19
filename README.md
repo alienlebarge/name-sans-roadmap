@@ -2,7 +2,7 @@
 
 This repo is a public roadmap for Name Sans, currently in-progress and available at Future Fonts. Its primary purpose is to provide a central location for documenting issues and work currently being explored.
 
-Do you have feedback, feature requests, or bug reports for Name Sans? Awesome! Please file it in the [issues](https://github.com/arrowtype/name-sans-roadmap/issues).
+Do you have a question, feature request, or bug report for Name Sans? Awesome! Please file it in the [issues](https://github.com/arrowtype/name-sans-roadmap/issues).
 
 *Note: Name Sans is ***not*** an open-source font. If you would like to try demo fonts or purchase a license for desktop & web usage, please go to https://www.futurefonts.xyz/arrowtype/name-sans.*
 
@@ -12,4 +12,4 @@ Do you have feedback, feature requests, or bug reports for Name Sans? Awesome! P
 
 ![current styles](images/name_sans_v02__03-styles.png)
 
-Follow along on Instagram where I am [@ArrowType](https://instagram.com/arrowtype), or see more on [Future Fonts](https://www.futurefonts.xyz/arrowtype/name-sans).
+Follow along on Instagram ([@ArrowType](https://instagram.com/arrowtype)) or see more on [Future Fonts](https://www.futurefonts.xyz/arrowtype/name-sans).
