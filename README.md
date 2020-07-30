@@ -10,10 +10,25 @@ Do you have a question, feature request, or bug report for Name Sans? Awesome! P
 
 Name Sans is currently released in version `0.2`, with Weights 1–700 and Optical Sizes 12–96.
 
-![title card](images/name_sans_v02__01b-cover-may_2020.png)
+![title card](images/01-cover-image-red.png)
 
-![description](images/name_sans_v02__02-future-thinking.png)
+![basic alphabet](images/02-basic_alphabet.png)
 
-![current styles](images/name_sans_v02__03-styles.png)
+![inspiration in subway name tablets](images/03-future-thinking.png)
+
+![available styles](images/04-styles.png)
+
+![optical sizes](images/05-opsz-lines.png)
+
+![variable alternates](images/06-rvrn.png)
+
+![character set sample](images/07-charset-bold.png)
+
+![S interpolations](images/08-weights_s.png)
+
+![rectangular alternate caps](images/09-rect_caps.png)
+
+![coming in version 0.4](images/11-coming_soon.png)
+
 
 Follow along on Instagram ([@ArrowType](https://instagram.com/arrowtype)) or see more on [Future Fonts](https://www.futurefonts.xyz/arrowtype/name-sans).
