@@ -8,7 +8,7 @@ Do you have a question, feature request, or bug report for Name Sans? Awesome! P
 
 ## Current Status
 
-Name Sans is currently released in version `0.2`, with Weights 1–700 and Optical Sizes 12–96.
+Name Sans is currently released in version `0.3`, with Weights 1–700 and Optical Sizes 12–96.
 
 ![title card](images/01-cover-image-red.png)
 
