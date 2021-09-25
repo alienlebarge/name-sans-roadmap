@@ -10,7 +10,7 @@ Do you have a question, feature request, or bug report for Name Sans? Awesome! P
 
 Name Sans is currently released in version `0.5`, with Weights 1–1000 and Optical Sizes 12–96. Future versions will add Italics and more.
 
-![title card](images/name_sans_v05-1.png)
+![title card](images/name_sans_v06-1.png)
 
 
 Follow along on Instagram ([@ArrowType](https://instagram.com/arrowtype)) or see more on [Future Fonts](https://www.futurefonts.xyz/arrowtype/name-sans).
